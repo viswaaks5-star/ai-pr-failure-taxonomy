@@ -1,0 +1,88 @@
+12989	open	build: skip tip release when nothing release-relevant changed since last tip
+12660	open	terminal: report DECECM as permanently reset
+12942	open	terminal: report selected match bounds
+11161	open	macOS: refine new-window behaviors
+12710	open	macos: treat unfocused split modifiers as UI state
+12984	open	input: add new_tab_with_command keybind action
+10776	open	shell-integration: configurable 'cursor' shapes
+11190	open	build,ci: add terminfo artifacts for releases and refactor terminfo build
+12128	open	Fix title clipping when using `window-title-font-family`
+12182	open	libghostty(formatter): enable kitty gfx for vt
+12881	open	macos: fix AXVisibleCharacterRange and UTF-16 indexing
+9760	open	macos: graceful child process termination
+12146	open	terminal/tmux: resize existing panes on layout changes
+12099	open	terminal/tmux: ignore %output before pane initialization
+11213	open	fix(tmux): use-after-free in receivedListWindows action slice
+12076	open	terminal/tmux: decode %output octal escapes
+11079	open	font/shaper: add RTL shaping for Arabic and Hebrew
+11217	open	fix(tmux): complete control mode protocol parsing
+11216	open	fix(vt): forward UTF-8 bytes through DCS passthrough
+12877	closed	macOS: mark Swift os.Logger interpolations as public
+12936	closed	fix(terminal): avoid integer overflow in selectPrev with no active matches
+12676	open	snap: bundle gstreamer plugins so audio bell works
+12893	closed	font: glyf outline decoder and rasterizer
+9857	open	feat(macos): add tab support for QuickTerminal - continued
+9633	open	feat: introduce `toggle_macos_option_as_alt` binding action with a keybind.
+12863	closed	macOS: improve logging experience for developers
+12030	open	terminal: implement kitty clipboard protocol read path (OSC 5522)
+9630	open	feat: add `cursor-style-unfocused` configuration option
+12843	closed	gtk: fix context menu hiding quick-terminal
+12894	closed	core: fix use-after-free in Surface.setSelection
+12995	open	Surface: open file paths with trailing :line[:col] suffixes
+10776	open	shell-integration: configurable 'cursor' shapes
+12128	open	Fix title clipping when using `window-title-font-family`
+9760	open	macos: graceful child process termination
+12945	closed	Load configuration from XDG system config
+12863	closed	macOS: improve logging experience for developers
+12030	open	terminal: implement kitty clipboard protocol read path (OSC 5522)
+12109	closed	Add `middle-click-paste` config option
+11963	closed	macos: add support for middle-click tab close for `macos-titlebar-style = tabs`
+12153	closed	feat(renderer): add iSurfaceOffset and iWindowResolution shader uniforms
+12107	closed	Add configurable title alignment support for macOS
+10943	closed	macOS: Add inactive window tint overlay for liquid glass
+11038	closed	zsh: fix ssh-terminfo shell integration to not interpret escape characters
+10431	closed	Fix IME Preedit characters getting thicker when idle
+9572	closed	custom shader: added cursor style and visibility uniforms
+10774	closed	renderer: drop opaque background for preedit cells
+10178	closed	fix: remove progress bar on reset terminal
+9989	closed	Fix for when pressing enter twice didn't refocus the found word
+9432	closed	Fix horizontal glyph spacing on normal-DPI monitors
+11276	closed	macos: reset mouse state on focus loss to prevent phantom drag
+9914	closed	refactor(build): simplify dependency detection logic
+12364	closed	libghostty-vt: fix broken dynamic linking with pkg-config
+10130	closed	Add iTimeFocus shader uniform to track time since focus
+11537	closed	config: add quick-terminal-background-opacity option
+11881	closed	Implement toggle_background_opacity keybinding action on linux
+8801	closed	feat: add liquid glass background effect support
+9469	closed	config: fix physical -> unicode keybinds for alternate keyboard layouts
+10657	closed	fix(macos): quick terminal ignores configured size when initial-window=false
+9382	closed	Search feature for Ghostty (Mac only)
+8526	closed	ai: add `gh-issue` command to help diagnose GitHub issues
+12660	open	terminal: report DECECM as permanently reset
+12166	open	macos: add proxy icon hover mode and disabled state
+11190	open	build,ci: add terminfo artifacts for releases and refactor terminfo build
+12435	closed	surface: respect semantic prompt boundaries for links
+12146	open	terminal/tmux: resize existing panes on layout changes
+12099	open	terminal/tmux: ignore %output before pane initialization
+12076	open	terminal/tmux: decode %output octal escapes
+11583	closed	macos: opacity-toggle setting persists between tabs in a window and to a newly created window
+10891	closed	Add ghostty_config_get tests
+12883	closed	Fix synthetic Command key equivalents
+11597	closed	Fix tmux control parser premature %end/%error block termination
+10004	closed	fix(mouse): avoid inflated wheel events in mouse reporting mode
+10324	closed	feat/macos search prefill selection
+10124	closed	Issue #9310 Resolved
+10907	closed	macos: pass through paste keybind when clipboard has no text
+12140	closed	Added support for macOS Material background effects and improved focus state and titlebar display logic
+12140	closed	Added support for macOS Material background effects and improved focus state and titlebar display logic
+8085	closed	feat: add option to disable the "Reloaded the configuration" notification
+12313	closed	docs: rewrite README + docs/status + getting-started, plus cleanups
+12140	closed	Added support for macOS Material background effects and improved focus state and titlebar display logic
+10657	closed	fix(macos): quick terminal ignores configured size when initial-window=false
+8998	closed	build: Turn `GhosttyKit` into a Swift package for future Swift macro integration
+10412	closed	Updated AI usage policy for contributions
+12175	closed	Exploration: Reconnectable Terminal using libghostty
+10585	closed	fix(macOS): pass through paste keybind when clipboard has no text
+9117	closed	macOS: add `toggle_background_opacity` keybind action
+9298	closed	feat: Select/Copy Links On Right Click If Present
+8961	closed	macOS: Focus Terminal App Intent

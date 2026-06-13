@@ -1,0 +1,90 @@
+{"number":12660,"state":"open","title":"terminal: report DECECM as permanently reset","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12660"}
+{"number":9723,"state":"open","title":"Add `recent` direction to `goto_split` action","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9723"}
+{"number":11190,"state":"open","title":"build,ci: add terminfo artifacts for releases and refactor terminfo build","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11190"}
+{"number":12870,"state":"closed","title":"[codex] add surface attach/detach C API","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12870"}
+{"number":12869,"state":"closed","title":"[codex] add surface attach/detach C API","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12869"}
+{"number":12602,"state":"open","title":"macos: apply key-remap to menu key equivalents","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12602"}
+{"number":11641,"state":"open","title":"i18n: translation support for command palete","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11641"}
+{"number":12166,"state":"open","title":"macos: add proxy icon hover mode and disabled state","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12166"}
+{"number":12146,"state":"open","title":"terminal/tmux: resize existing panes on layout changes","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12146"}
+{"number":12099,"state":"open","title":"terminal/tmux: ignore %output before pane initialization","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12099"}
+{"number":12883,"state":"closed","title":"Fix synthetic Command key equivalents","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12883"}
+{"number":12076,"state":"open","title":"terminal/tmux: decode %output octal escapes","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12076"}
+{"number":12821,"state":"closed","title":"Add sidebar and status indicators","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12821"}
+{"number":12828,"state":"closed","title":"macos: avoid duplicate appearance sync on tab focus","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12828"}
+{"number":12518,"state":"closed","title":"macos: suppress control-char input while composing","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12518"}
+{"number":12597,"state":"closed","title":"macos: add menu key equivalent option","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12597"}
+{"number":11583,"state":"closed","title":"macos: opacity-toggle setting persists between tabs in a window and to a newly created window","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11583"}
+{"number":12547,"state":"closed","title":"macos: avoid replaying keys that commit preedit","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12547"}
+{"number":12435,"state":"closed","title":"surface: respect semantic prompt boundaries for links","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12435"}
+{"number":12760,"state":"closed","title":"gtk: wire up occlusionCallback for non-focused tabs","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12760"}
+{"number":10497,"state":"closed","title":"Fix macOS ctrl-only insertText handling","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10497"}
+{"number":11922,"state":"closed","title":"macos: add pid and tty properties to AppleScript terminal and App Intents TerminalEntity","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11922"}
+{"number":11597,"state":"closed","title":"Fix tmux control parser premature %end/%error block termination","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11597"}
+{"number":11117,"state":"closed","title":"gtk: implement quick-terminal-screen for Linux/Wayland","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11117"}
+{"number":11088,"state":"closed","title":"terminal: bounds check params in DCS passthrough entry","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11088"}
+{"number":10891,"state":"closed","title":"Add ghostty_config_get tests","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10891"}
+{"number":11009,"state":"closed","title":"macOS: fix crash when adding tab from tab overview","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11009"}
+{"number":10508,"state":"closed","title":"Fix agent wrapper PATH resolution in release builds","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10508"}
+{"number":12140,"state":"closed","title":"Added support for macOS Material background effects and improved focus state and titlebar display logic","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12140"}
+{"number":9831,"state":"closed","title":"macOS: fix tab context menu opens on macOS 26 with titlebar tabs","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9831"}
+{"number":12989,"state":"open","title":"build: skip tip release when nothing release-relevant changed since last tip","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12989"}
+{"number":12942,"state":"open","title":"terminal: report selected match bounds","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12942"}
+{"number":12984,"state":"open","title":"input: add new_tab_with_command keybind action","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12984"}
+{"number":12861,"state":"closed","title":"agents: symlink CLAUDE.md to AGENTS.md","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12861"}
+{"number":12403,"state":"open","title":"apprt: minimal Win32 skeleton (window + WGL + CoreSurface wiring)","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12403"}
+{"number":12468,"state":"open","title":"macos: expose tab color via AppleScript","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12468"}
+{"number":12166,"state":"open","title":"macos: add proxy icon hover mode and disabled state","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12166"}
+{"number":12659,"state":"open","title":"config: add gtk-horizontal-tab-scroll option","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12659"}
+{"number":12030,"state":"open","title":"terminal: implement kitty clipboard protocol read path (OSC 5522)","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12030"}
+{"number":12995,"state":"open","title":"Surface: open file paths with trailing :line[:col] suffixes","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12995"}
+{"number":11079,"state":"open","title":"font/shaper: add RTL shaping for Arabic and Hebrew","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11079"}
+{"number":11875,"state":"open","title":"Implement blink attribute for text","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11875"}
+{"number":10776,"state":"open","title":"shell-integration: configurable 'cursor' shapes","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10776"}
+{"number":12128,"state":"open","title":"Fix title clipping when using `window-title-font-family`","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12128"}
+{"number":12881,"state":"open","title":"macos: fix AXVisibleCharacterRange and UTF-16 indexing","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12881"}
+{"number":9760,"state":"open","title":"macos: graceful child process termination","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9760"}
+{"number":12326,"state":"open","title":"Feat: Add caret mode for keyboard-driven navigation of the scrollback","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12326"}
+{"number":12146,"state":"open","title":"terminal/tmux: resize existing panes on layout changes","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12146"}
+{"number":12099,"state":"open","title":"terminal/tmux: ignore %output before pane initialization","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12099"}
+{"number":12960,"state":"closed","title":"surface(macos): offset search overlay when occluding results","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12960"}
+{"number":11213,"state":"open","title":"fix(tmux): use-after-free in receivedListWindows action slice","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11213"}
+{"number":9633,"state":"open","title":"feat: introduce `toggle_macos_option_as_alt` binding action with a keybind.","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9633"}
+{"number":12076,"state":"open","title":"terminal/tmux: decode %output octal escapes","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12076"}
+{"number":10263,"state":"open","title":"feat(gtk): Port undo-timeout feature to Linux/GTK","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10263"}
+{"number":11217,"state":"open","title":"fix(tmux): complete control mode protocol parsing","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11217"}
+{"number":11216,"state":"open","title":"fix(vt): forward UTF-8 bytes through DCS passthrough","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11216"}
+{"number":12877,"state":"closed","title":"macOS: mark Swift os.Logger interpolations as public","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12877"}
+{"number":12936,"state":"closed","title":"fix(terminal): avoid integer overflow in selectPrev with no active matches","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12936"}
+{"number":12676,"state":"open","title":"snap: bundle gstreamer plugins so audio bell works","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12676"}
+{"number":12821,"state":"closed","title":"Add sidebar and status indicators","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12821"}
+{"number":12984,"state":"open","title":"input: add new_tab_with_command keybind action","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12984"}
+{"number":12676,"state":"open","title":"snap: bundle gstreamer plugins so audio bell works","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12676"}
+{"number":11217,"state":"open","title":"fix(tmux): complete control mode protocol parsing","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11217"}
+{"number":10103,"state":"open","title":"Add core functionality to switch to most recent tab with a popup similar to the command palette","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10103"}
+{"number":12579,"state":"closed","title":"docs(input): add documentation for missing action parameters","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12579"}
+{"number":11216,"state":"open","title":"fix(vt): forward UTF-8 bytes through DCS passthrough","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11216"}
+{"number":12270,"state":"closed","title":"macOS: add tests for KeyboardShortcut \u003c-\u003e ghostty_input_trigger_s","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12270"}
+{"number":8998,"state":"closed","title":"build: Turn `GhosttyKit` into a Swift package for future Swift macro integration","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/8998"}
+{"number":11793,"state":"closed","title":"gtk: disable kinetic scrolling for trackpads until 4.20.1","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11793"}
+{"number":11322,"state":"closed","title":"macOS: fix intrinsicContentSize race in windowDidLoad","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11322"}
+{"number":12140,"state":"closed","title":"Added support for macOS Material background effects and improved focus state and titlebar display logic","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12140"}
+{"number":12313,"state":"closed","title":"docs: rewrite README + docs/status + getting-started, plus cleanups","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12313"}
+{"number":11456,"state":"closed","title":"config: add pre-commit hooks for linting","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11456"}
+{"number":10945,"state":"open","title":"Increase register of Hebrew localization and improve its polygendering","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10945"}
+{"number":11167,"state":"closed","title":"apprt: unify split-click focus behavior across macOS and GTK; suppress focus-transfer mouse events","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/11167"}
+{"number":10412,"state":"closed","title":"Updated AI usage policy for contributions","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10412"}
+{"number":9882,"state":"closed","title":"CONTRIBUTING: limit AI assistance to code only","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9882"}
+{"number":10644,"state":"closed","title":"feat(i18n): complete Lithuanian (lt_LT) translation for v1.3","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10644"}
+{"number":10657,"state":"closed","title":"fix(macos): quick terminal ignores configured size when initial-window=false","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10657"}
+{"number":10585,"state":"closed","title":"fix(macOS): pass through paste keybind when clipboard has no text","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10585"}
+{"number":10539,"state":"closed","title":"feat: add scrollback-clear-allowed config option","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10539"}
+{"number":9117,"state":"closed","title":"macOS: add `toggle_background_opacity` keybind action","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9117"}
+{"number":12175,"state":"closed","title":"Exploration: Reconnectable Terminal using libghostty","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/12175"}
+{"number":10818,"state":"closed","title":"replace CIELAB with OKLCH for 256-color palette interpolation","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10818"}
+{"number":9298,"state":"closed","title":"feat: Select/Copy Links On Right Click If Present","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9298"}
+{"number":10189,"state":"closed","title":"Add terminfo as downloadable release artifact","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10189"}
+{"number":10328,"state":"closed","title":"gtk: add GSettings generic module and respect gtk-enable-primary-paste on gtk systems","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10328"}
+{"number":9919,"state":"closed","title":"Dim a window when it loses focus","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9919"}
+{"number":9885,"state":"closed","title":"fix: bash shell integration use-after-free bug from PR #9881","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/9885"}
+{"number":10150,"state":"closed","title":"fix: use flush instead of end on stdout in code generators for Windows compatibility","url":"https://api.github.com/repos/ghostty-org/ghostty/issues/10150"}

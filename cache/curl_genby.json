@@ -1,0 +1,30 @@
+{"number":21996,"state":"open","title":"pingpong: reject nul byte in server response line","url":"https://api.github.com/repos/curl/curl/issues/21996"}
+{"number":21813,"state":"open","title":"fopen: avoid clobbering file before temp save","url":"https://api.github.com/repos/curl/curl/issues/21813"}
+{"number":21931,"state":"open","title":"Implement a test server that drops connections right away","url":"https://api.github.com/repos/curl/curl/issues/21931"}
+{"number":21982,"state":"open","title":"ldap: base64 encode binary LDIF values with WinLDAP","url":"https://api.github.com/repos/curl/curl/issues/21982"}
+{"number":21778,"state":"open","title":"lib: add new option CURLOPT_HEADERFUNCTION_EXTENDED","url":"https://api.github.com/repos/curl/curl/issues/21778"}
+{"number":21958,"state":"closed","title":"GHA: Update debian:bookworm-slim Docker digest to 96e378d","url":"https://api.github.com/repos/curl/curl/issues/21958"}
+{"number":21972,"state":"closed","title":"tidy-up: miscellaneous","url":"https://api.github.com/repos/curl/curl/issues/21972"}
+{"number":21961,"state":"closed","title":"multi: remove a stale comment","url":"https://api.github.com/repos/curl/curl/issues/21961"}
+{"number":21942,"state":"closed","title":"test 527: bring back, not a dupe","url":"https://api.github.com/repos/curl/curl/issues/21942"}
+{"number":21899,"state":"closed","title":"Revert \"url: remove ssh_config_matches\"","url":"https://api.github.com/repos/curl/curl/issues/21899"}
+{"number":21913,"state":"closed","title":"resolve: Mention in error that IP address is expected","url":"https://api.github.com/repos/curl/curl/issues/21913"}
+{"number":21893,"state":"closed","title":"build: enable `-Wlogical-op` picky warning for GCC 4.4+","url":"https://api.github.com/repos/curl/curl/issues/21893"}
+{"number":21886,"state":"closed","title":"CURLOPT_PORT.md: use stronger language","url":"https://api.github.com/repos/curl/curl/issues/21886"}
+{"number":21887,"state":"closed","title":"tool: warn when --ssl and --ftp-ssl-control override each other","url":"https://api.github.com/repos/curl/curl/issues/21887"}
+{"number":21830,"state":"closed","title":"tidy-up: miscellaneous","url":"https://api.github.com/repos/curl/curl/issues/21830"}
+{"number":21790,"state":"closed","title":"GHA: Update dependency google/boringssl to v0.20260526.0","url":"https://api.github.com/repos/curl/curl/issues/21790"}
+{"number":21783,"state":"closed","title":"GHA: Update dependency cloudflare/quiche to v0.29.1","url":"https://api.github.com/repos/curl/curl/issues/21783"}
+{"number":21814,"state":"closed","title":"GHA: Update dependency ngtcp2/nghttp3 to v1.16.0","url":"https://api.github.com/repos/curl/curl/issues/21814"}
+{"number":21965,"state":"open","title":"TLS: drop support for TLS-SRP","url":"https://api.github.com/repos/curl/curl/issues/21965"}
+{"number":21794,"state":"closed","title":"http: don't pass on set cookies to new origins","url":"https://api.github.com/repos/curl/curl/issues/21794"}
+{"number":21239,"state":"open","title":"httpsig: add RFC 9421 HTTP Message Signatures support","url":"https://api.github.com/repos/curl/curl/issues/21239"}
+{"number":21687,"state":"closed","title":"GHA: Update debian:bookworm-slim Docker digest to 0104b33","url":"https://api.github.com/repos/curl/curl/issues/21687"}
+{"number":21821,"state":"closed","title":"lib1560: drop unused variable 'url'","url":"https://api.github.com/repos/curl/curl/issues/21821"}
+{"number":21716,"state":"closed","title":"multi: handle pause in multi socket callback","url":"https://api.github.com/repos/curl/curl/issues/21716"}
+{"number":21742,"state":"closed","title":"GHA: Update dependency libressl/portable to v4.3.2","url":"https://api.github.com/repos/curl/curl/issues/21742"}
+{"number":21721,"state":"closed","title":"urlapi: fix redirect handling if CURLU_NO_GUESS_SCHEME is set","url":"https://api.github.com/repos/curl/curl/issues/21721"}
+{"number":21539,"state":"closed","title":"GHA: Update debian:bookworm-slim Docker digest to 67b30a6","url":"https://api.github.com/repos/curl/curl/issues/21539"}
+{"number":21944,"state":"closed","title":"digest: flush state on origin or credential change","url":"https://api.github.com/repos/curl/curl/issues/21944"}
+{"number":21620,"state":"closed","title":"GHA: Update dependency cloudflare/quiche to v0.29.0","url":"https://api.github.com/repos/curl/curl/issues/21620"}
+{"number":21749,"state":"closed","title":"Set the locale for test1981 explicit","url":"https://api.github.com/repos/curl/curl/issues/21749"}

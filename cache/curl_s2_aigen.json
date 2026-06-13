@@ -1,0 +1,30 @@
+{"number":21888,"state":"open","title":"lib: Implement CURLOPT_LOCALPORTRANGE with kernel support if available.","url":"https://api.github.com/repos/curl/curl/issues/21888"}
+{"number":21995,"state":"closed","title":"telnet: drop redundant interim variables","url":"https://api.github.com/repos/curl/curl/issues/21995"}
+{"number":21987,"state":"closed","title":"AmigaOS Fix clib2 explicit bzero","url":"https://api.github.com/repos/curl/curl/issues/21987"}
+{"number":21985,"state":"closed","title":"checksrc: silence `-b` option debug message","url":"https://api.github.com/repos/curl/curl/issues/21985"}
+{"number":21969,"state":"closed","title":"http_digest: return better error","url":"https://api.github.com/repos/curl/curl/issues/21969"}
+{"number":21991,"state":"closed","title":"runtests: exit hard on duplicate test name","url":"https://api.github.com/repos/curl/curl/issues/21991"}
+{"number":21980,"state":"closed","title":"lib695, lib757: fix truncated newline in error messages","url":"https://api.github.com/repos/curl/curl/issues/21980"}
+{"number":21976,"state":"closed","title":"telnet: fix error message typos","url":"https://api.github.com/repos/curl/curl/issues/21976"}
+{"number":21959,"state":"closed","title":"cf-ip-happy, update documentation","url":"https://api.github.com/repos/curl/curl/issues/21959"}
+{"number":21961,"state":"closed","title":"multi: remove a stale comment","url":"https://api.github.com/repos/curl/curl/issues/21961"}
+{"number":21988,"state":"closed","title":"GHA/distcheck: switch to parse `info.json`","url":"https://api.github.com/repos/curl/curl/issues/21988"}
+{"number":21956,"state":"closed","title":"CURLINFO_CONTENT_LENGTH_UPLOAD_T.md: expand","url":"https://api.github.com/repos/curl/curl/issues/21956"}
+{"number":21975,"state":"closed","title":"tidy-up: add spaces around equal operators where missing","url":"https://api.github.com/repos/curl/curl/issues/21975"}
+{"number":21978,"state":"closed","title":"GHA/distcheck: use `https://curl.se/info`","url":"https://api.github.com/repos/curl/curl/issues/21978"}
+{"number":21973,"state":"closed","title":"runtests: fix tests for curl builds with embedded CA bundle","url":"https://api.github.com/repos/curl/curl/issues/21973"}
+{"number":21986,"state":"closed","title":"schannel, use correct ssl configs","url":"https://api.github.com/repos/curl/curl/issues/21986"}
+{"number":21935,"state":"closed","title":"tidy-up: drop redundant `== NULL` syntax","url":"https://api.github.com/repos/curl/curl/issues/21935"}
+{"number":21932,"state":"closed","title":"tidy-up: drop redundant `!= NULL` syntax","url":"https://api.github.com/repos/curl/curl/issues/21932"}
+{"number":21929,"state":"closed","title":"smbserver: check impacket presence differently","url":"https://api.github.com/repos/curl/curl/issues/21929"}
+{"number":21928,"state":"closed","title":"pytest: use `Optional[]`, adjust whitespace","url":"https://api.github.com/repos/curl/curl/issues/21928"}
+{"number":21922,"state":"closed","title":"unit1675: fix potential memory leak on dynbuf fail path","url":"https://api.github.com/repos/curl/curl/issues/21922"}
+{"number":21962,"state":"closed","title":"h3proxy, no stream userdata","url":"https://api.github.com/repos/curl/curl/issues/21962"}
+{"number":21930,"state":"closed","title":"tests/data/test16{29,45}: Add the keyword \"--resolve\"","url":"https://api.github.com/repos/curl/curl/issues/21930"}
+{"number":21947,"state":"closed","title":"tidy-up: drop stray comparisons with literal zero","url":"https://api.github.com/repos/curl/curl/issues/21947"}
+{"number":21912,"state":"closed","title":"docs: returned header size reflects HTTP/1-style format","url":"https://api.github.com/repos/curl/curl/issues/21912"}
+{"number":21908,"state":"closed","title":"Revert \"content_encoding: drop support for zlib before 1.2.0.4\"","url":"https://api.github.com/repos/curl/curl/issues/21908"}
+{"number":21977,"state":"closed","title":"GHA/distcheck: fix parsing the download page","url":"https://api.github.com/repos/curl/curl/issues/21977"}
+{"number":21892,"state":"closed","title":"lib1587: drop redundant includes","url":"https://api.github.com/repos/curl/curl/issues/21892"}
+{"number":21946,"state":"closed","title":"make Curl_addr2string static","url":"https://api.github.com/repos/curl/curl/issues/21946"}
+{"number":21933,"state":"closed","title":"psl: require libpsl 0.16.0 (2016-12-10) or greater","url":"https://api.github.com/repos/curl/curl/issues/21933"}
