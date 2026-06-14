@@ -1,0 +1,1 @@
+{"author":{"id":"MDQ6VXNlcjEwMzEx","is_bot":false,"login":"jparise","name":"Jon Parise"},"closedAt":"2026-06-02T13:07:32Z","createdAt":"2026-06-02T00:11:22Z","isDraft":false,"labels":[],"mergedAt":"2026-06-02T13:07:32Z","number":12894,"state":"MERGED","title":"core: fix use-after-free in Surface.setSelection","url":"https://github.com/ghostty-org/ghostty/pull/12894"}
