@@ -1,0 +1,9 @@
+{
+  "repo": "godotengine/godot",
+  "number": 118367,
+  "applies": true,
+  "symbols_missing": [],
+  "pr_ci": "success",
+  "close_class": "provenance",
+  "verdict": "provenance-confirmed"
+}

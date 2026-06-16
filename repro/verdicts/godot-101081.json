@@ -1,0 +1,12 @@
+{
+  "repo": "godotengine/godot",
+  "number": 101081,
+  "applies": true,
+  "symbols_missing": [
+    "Performance::start_measure",
+    "Performance::stop_measure"
+  ],
+  "pr_ci": "none",
+  "close_class": "quality",
+  "verdict": "claim-reproduced"
+}

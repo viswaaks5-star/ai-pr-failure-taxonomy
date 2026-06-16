@@ -1,0 +1,9 @@
+{
+  "repo": "ghostty-org/ghostty",
+  "number": 11881,
+  "applies": true,
+  "symbols_missing": [],
+  "pr_ci": "success",
+  "close_class": "trust-gate",
+  "verdict": "provenance-confirmed"
+}
